@@ -37,8 +37,6 @@ python linear_regression_gui.py
 python linear_regression_from_scratch.py
 ```
 
-## 📸 Screenshots
-
 ### Dark Mode Interface
 - Interactive dataset selection
 - Real-time training visualization
