@@ -18,7 +18,7 @@ A complete implementation of **Linear Regression** algorithm from scratch using 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linear-regression-from-scratch.git
+git clone https://github.com/mohasbks/linear-regression-from-scratch.git
 cd linear-regression-from-scratch
 
 # Install dependencies
